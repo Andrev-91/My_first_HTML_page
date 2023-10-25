@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+    padding: 110px;
+}
+#Presentacion{
+    color: brown;
+}
+p{
+    color: rgb(24, 7, 22);
+    background-color: antiquewhite;
+}
